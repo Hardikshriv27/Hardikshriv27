@@ -9,7 +9,7 @@
 - 🗄️ I know **SQL & MongoDB (databases)**
 - 🌱 Currently learning **Flask** to build real backend projects
 - ⚡ I believe in **understanding logic first, then writing code**
-- 📌 Right now, I’m not an expert — just consistently improving every day
+- 📌 Not an expert yet — just **consistently improving every day**
 
 ---
 
@@ -32,7 +32,13 @@
 
 ## 💻 Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
 </p>
 
 ---
@@ -45,16 +51,9 @@
 ---
 
 ## 🎯 Current Focus
-- Build small real-world projects using Flask
+- Build real-world backend projects
 - Strengthen core programming logic
-- Improve database understanding
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hardikshriv27&show_icons=true&theme=radical" />
-</p>
+- Improve database skills
 
 ---
 
