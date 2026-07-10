@@ -9,7 +9,6 @@
 - 🗄️ I know **SQL & MongoDB (databases)**
 - 🌱 Currently learning **Flask** to build real backend projects
 - ⚡ I believe in **understanding logic first, then writing code**
-- 📌 Not an expert yet — just **consistently improving every day**
 
 ---
 
