@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 - 🧠 I’m currently focused on **learning backend development properly**
-- 🐍 Comfortable with **Python basics**
+- 🐍 In-love with **Python**
 - 🗄️ I know **SQL & MongoDB (databases)**
 - 🌱 Currently learning **Flask** to build real backend projects
 - ⚡ I believe in **understanding logic first, then writing code**
