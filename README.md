@@ -22,9 +22,9 @@ Right now I'm building **Social Connect**, a platform for linking your social ac
 
 <br/>
 
-## 🧩 What I'm building — Social Connect
+## 🔗 Social Connect — social media integration platform
 
-A social media integration platform — one app to connect and manage your accounts across platforms.
+One app to connect and manage your social accounts across platforms.
 
 - **Next.js + TypeScript** — the web application itself
 - **.NET** — backend logic and API layer
@@ -87,18 +87,6 @@ Global Tech Nepal Pvt. Ltd., Kathmandu — Jun to Aug 2026
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hardikshriv27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikshriv27&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikshriv27&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hardikshriv27&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
