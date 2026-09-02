@@ -6,14 +6,15 @@
 
 <br/>
 
+<a href="https://hardikshrivastava.com.np/">
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/hardik-shrivastava-60659828a/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:hardik.shrivastava134@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Hardikshriv27">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -38,11 +39,14 @@ const hardik = {
         role: "Software Tester & Digital Marketing Associate",
         department: "Research & Development (R&D)",
         company: "Global Tech Nepal Pvt. Ltd.",
+        location: "Kathmandu, Nepal",
+        duration: "12 June 2026 – 24 August 2026",
         focus: [
             "Software Testing",
             "Quality Assurance",
             "Web Application Testing",
-            "UI & Usability Testing"
+            "UI & Usability Testing",
+            "Digital Marketing (SEO, Social Media)"
         ]
     },
 
@@ -56,6 +60,8 @@ const hardik = {
 
     currentProject: "Social Connect",
 
+    portfolio: "https://hardikshrivastava.com.np/",
+
     status: "Building, testing and improving."
 };
 ```
@@ -66,9 +72,23 @@ const hardik = {
 
 I'm a **BCA student graduating in 2026** with hands-on experience in **Software Testing, Quality Assurance, Web Application Testing, and Digital Marketing**, along with practical experience in modern web development.
 
-I enjoy working across both **development and testing**, understanding how applications are built while also focusing on their functionality, usability, and reliability.
+I enjoy working across both **development and testing** — understanding how applications are built while also focusing on their functionality, usability, and reliability.
 
 Currently, I'm developing **Social Connect**, a social media integration platform built using modern web technologies and external platform APIs.
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+### 🔗 [hardikshrivastava.com.np](https://hardikshrivastava.com.np/)
+
+<a href="https://hardikshrivastava.com.np/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -103,7 +123,7 @@ Currently, I'm developing **Social Connect**, a social media integration platfor
 
 ---
 
-## 🔗 Social Connect
+## 🔗 Featured Project: Social Connect
 
 ### Social Media Integration Platform
 
@@ -124,14 +144,16 @@ Currently, I'm developing **Social Connect**, a social media integration platfor
 - Backend and API functionality using **.NET**
 - Database operations using **Microsoft SQL Server / SSMS**
 - Implemented **OAuth 2.0 authorization flows**
-- Worked with **Facebook Graph API**
-- Worked with **YouTube API**
+- Working with the **Facebook Graph API**
+- Working with the **YouTube API**
 - REST-based communication between application components
 - Used **Ngrok** for local callback and API testing
 
+> 🚧 Social Connect is under active development — features and integrations are being progressively built and tested.
+
 ---
 
-## 🧪 Testing & QA
+## 🧪 Testing & Quality Assurance
 
 ```text
 ✓ Web Application Testing
@@ -141,10 +163,22 @@ Currently, I'm developing **Social Connect**, a social media integration platfor
 ✓ Application Functionality Verification
 ✓ UI Testing
 ✓ Usability Testing
-✓ Software Reliability Testing
+✓ Software Quality & Reliability
 ```
 
-Worked as a **Software Tester & Digital Marketing Associate** in the **Research & Development (R&D) Team at Global Tech Nepal Pvt. Ltd.**
+---
+
+## 💼 Professional Experience
+
+**Software Tester & Digital Marketing Associate**
+Research & Development (R&D) Team
+**Global Tech Nepal Pvt. Ltd.**, Kathmandu, Nepal
+`12 June 2026 – 24 August 2026`
+
+- Performed software testing, quality assurance, and web application testing
+- Identified functional defects and verified application functionality
+- Conducted UI and usability testing to support software quality and reliability
+- Contributed to digital marketing initiatives including SEO, social media promotion, and content-related activities
 
 ---
 
@@ -156,18 +190,6 @@ Worked as a **Software Tester & Digital Marketing Associate** in the **Research 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hardikshriv27&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikshriv27&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
 ## ⚡ Current Status
 
 <div align="center">
@@ -175,7 +197,7 @@ Worked as a **Software Tester & Digital Marketing Associate** in the **Research 
 ```text
 ┌─────────────────────────────────────────────┐
 │                                             │
-│   STATUS : BUILDING                         │
+│   STATUS  : BUILDING                        │
 │                                             │
 │   PROJECT : SOCIAL CONNECT                  │
 │   FOCUS   : DEVELOPMENT + QA                │
@@ -194,10 +216,12 @@ Worked as a **Software Tester & Digital Marketing Associate** in the **Research 
 
 ### 🤝 Connect With Me
 
+<a href="https://hardikshrivastava.com.np/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/hardik-shrivastava-60659828a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:hardik.shrivastava134@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
