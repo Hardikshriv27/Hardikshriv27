@@ -1,237 +1,89 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hardik%20Shrivastava&fontAlign=50&fontAlignY=38&color=gradient&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<h1>
+  <code>hardik@dev</code><span style="color:#7EE787">:</span><code>~$</code> whoami
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+QA+%26+Testing;Next.js+%7C+TypeScript+%7C+.NET+%7C+SQL+Server;Building+Social+Connect;Learning.+Building.+Improving." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hardik+Shrivastava;Building+%26+Breaking+Software;Next.js+%C2%B7+.NET+%C2%B7+SQL+Server;Currently%3A+Social+Connect" alt="typing" />
 
 <br/>
 
-<a href="https://hardikshrivastava.com.np/">
-  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/hardik-shrivastava-60659828a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hardik.shrivastava134@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Hardikshriv27">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://hardikshrivastava.com.np/"><img src="https://img.shields.io/badge/portfolio-hardikshrivastava.com.np-58A6FF?style=flat-square&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/hardik-shrivastava-60659828a/"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&labelColor=0D1117"/></a>
+<a href="mailto:hardik.shrivastava134@gmail.com"><img src="https://img.shields.io/badge/email-hardik.shrivastava134-F0883E?style=flat-square&labelColor=0D1117"/></a>
 
 </div>
 
----
+<br/>
 
-## 💻 System Profile
+## Two ways I look at every piece of software
 
-```ts
-const hardik = {
-    name: "Hardik Shrivastava",
+I don't just ship features — I've spent as much time trying to break them. That's the actual shape of my work: build something, then put on the tester's hat and find where it fails.
 
-    education: {
-        degree: "Bachelor of Computer Applications",
-        university: "Presidency University, Bangalore",
-        graduation: 2026
-    },
+<table>
+<tr>
+<td width="50%" valign="top">
 
-    experience: {
-        role: "Software Tester & Digital Marketing Associate",
-        department: "Research & Development (R&D)",
-        company: "Global Tech Nepal Pvt. Ltd.",
-        location: "Kathmandu, Nepal",
-        duration: "12 June 2026 – 24 August 2026",
-        focus: [
-            "Software Testing",
-            "Quality Assurance",
-            "Web Application Testing",
-            "UI & Usability Testing",
-            "Digital Marketing (SEO, Social Media)"
-        ]
-    },
+### `build/`
 
-    development: [
-        "Next.js",
-        "TypeScript",
-        ".NET",
-        "Python",
-        "SQL"
-    ],
-
-    currentProject: "Social Connect",
-
-    portfolio: "https://hardikshrivastava.com.np/",
-
-    status: "Building, testing and improving."
-};
+```diff
++ Next.js & TypeScript frontends
++ .NET backend & API layers
++ SQL Server / SSMS data design
++ OAuth 2.0 authorization flows
++ REST API integration
 ```
 
----
+Currently building **Social Connect** — a platform that connects your social accounts through one unified app. Facebook Graph API and YouTube API integrations, tested locally via Ngrok. Still a work in progress, not a finished product.
 
-## 🚀 About Me
+</td>
+<td width="50%" valign="top">
 
-I'm a **BCA student graduating in 2026** with hands-on experience in **Software Testing, Quality Assurance, Web Application Testing, and Digital Marketing**, along with practical experience in modern web development.
+### `test/`
 
-I enjoy working across both **development and testing** — understanding how applications are built while also focusing on their functionality, usability, and reliability.
-
-Currently, I'm developing **Social Connect**, a social media integration platform built using modern web technologies and external platform APIs.
-
----
-
-## 🌐 Portfolio
-
-<div align="center">
-
-### 🔗 [hardikshrivastava.com.np](https://hardikshrivastava.com.np/)
-
-<a href="https://hardikshrivastava.com.np/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Web
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nextjs,dotnet" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/SSMS-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth%202.0-4285F4?style=for-the-badge&logo=auth0&logoColor=white"/>
-
-</div>
-
----
-
-## 🔗 Featured Project: Social Connect
-
-### Social Media Integration Platform
-
-**Social Connect** is a web-based platform designed to connect social media accounts and manage platform integrations through a unified application.
-
-### ⚙️ Tech Stack
-
-`Next.js` • `TypeScript` • `.NET` • `SQL Server` • `SSMS` • `OAuth 2.0` • `REST APIs` • `Ngrok`
-
-### 🔌 Platform Integrations
-
-<img src="https://img.shields.io/badge/Facebook%20Graph%20API-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-<img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-
-### ✨ Development Highlights
-
-- Built using **Next.js and TypeScript**
-- Backend and API functionality using **.NET**
-- Database operations using **Microsoft SQL Server / SSMS**
-- Implemented **OAuth 2.0 authorization flows**
-- Working with the **Facebook Graph API**
-- Working with the **YouTube API**
-- REST-based communication between application components
-- Used **Ngrok** for local callback and API testing
-
-> 🚧 Social Connect is under active development — features and integrations are being progressively built and tested.
-
----
-
-## 🧪 Testing & Quality Assurance
-
-```text
-✓ Web Application Testing
-✓ Functional Testing
-✓ Quality Assurance
-✓ Defect Identification
-✓ Application Functionality Verification
-✓ UI Testing
-✓ Usability Testing
-✓ Software Quality & Reliability
+```diff
+! Functional & regression testing
+! UI & usability testing
+! Defect identification
+! Application verification
+! Reliability & QA sign-off
 ```
 
----
+Did this hands-on as **Software Tester & Digital Marketing Associate**, R&D Team, Global Tech Nepal Pvt. Ltd. — Kathmandu, Nepal (Jun–Aug 2026). Also ran SEO and social promotion for the same team.
 
-## 💼 Professional Experience
-
-**Software Tester & Digital Marketing Associate**
-Research & Development (R&D) Team
-**Global Tech Nepal Pvt. Ltd.**, Kathmandu, Nepal
-`12 June 2026 – 24 August 2026`
-
-- Performed software testing, quality assurance, and web application testing
-- Identified functional defects and verified application functionality
-- Conducted UI and usability testing to support software quality and reliability
-- Contributed to digital marketing initiatives including SEO, social media promotion, and content-related activities
+</td>
+</tr>
+</table>
 
 ---
 
-## 📜 Certifications
+## Background
 
-- **Data Analytics Job Simulation — Deloitte (Forage)**
-- **Innovating with Google Cloud AI**
-- **Introduction to Generative AI**
+**BCA, Presidency University, Bangalore** — graduating 2026.
+
+Certifications: Data Analytics Job Simulation (Deloitte, via Forage) · Innovating with Google Cloud AI · Introduction to Generative AI.
 
 ---
 
-## ⚡ Current Status
+## Live from GitHub
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   STATUS  : BUILDING                        │
-│                                             │
-│   PROJECT : SOCIAL CONNECT                  │
-│   FOCUS   : DEVELOPMENT + QA                │
-│   MODE    : LEARNING • BUILDING • SHIPPING  │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api?username=Hardikshriv27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikshriv27&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=7EE787" height="165"/>
 
-### `> Learning. Building. Testing. Improving._`
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hardikshriv27&bg_color=0D1117&color=58A6FF&line=7EE787&point=F0883E&hide_border=true" width="100%"/>
 
 </div>
 
+*These update automatically — commits, streaks, and language mix pull live from the account, no manual editing.*
+
 ---
 
 <div align="center">
 
-### 🤝 Connect With Me
-
-<a href="https://hardikshrivastava.com.np/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/hardik-shrivastava-60659828a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:hardik.shrivastava134@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Hardikshriv27&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient"/>
+<sub>reachable at <a href="https://hardikshrivastava.com.np/">hardikshrivastava.com.np</a> · <a href="mailto:hardik.shrivastava134@gmail.com">hardik.shrivastava134@gmail.com</a></sub>
 
 </div>
