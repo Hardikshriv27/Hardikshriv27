@@ -85,7 +85,7 @@ Global Tech Nepal Pvt. Ltd., Kathmandu — Jun to Aug 2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hardikshriv27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+🟢 **37** contributions · 🔥 **3** day streak · 📁 **7** repositories
 
 </div>
 <br/>
