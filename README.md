@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Hardik%20Shrivastava&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=35&desc=Software%20Developer%20%7C%20QA%20%26%20Testing&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Hardik%20Shrivastava&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=35&desc=Software%20Developer%20%7C%20QA%20and%20Testing&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Social+Connect;Next.js+%2B+TypeScript+%2B+.NET+%2B+SQL+Server;Ex-Software+Tester+%40+Global+Tech+Nepal;Learning.+Building.+Breaking.+Fixing." />
 
@@ -86,7 +86,7 @@ Global Tech Nepal Pvt. Ltd., Kathmandu — Jun to Aug 2026
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hardikshriv27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikshriv27&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Hardikshriv27&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
