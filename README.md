@@ -1,70 +1,104 @@
 <div align="center">
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Hardik%20Shrivastava&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=35&desc=Software%20Developer%20%7C%20QA%20%26%20Testing&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 
-# HARDIK SHRIVASTAVA
-
-<sub>SOFTWARE DEVELOPER — QA & TESTING — BANGALORE / KATHMANDU</sub>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&pause=1400&color=8B949E&center=true&vCenter=true&width=560&lines=Next.js+%C2%B7+TypeScript+%C2%B7+.NET+%C2%B7+SQL+Server;currently+building+Social+Connect;learning+%E2%86%92+building+%E2%86%92+testing+%E2%86%92+improving" alt="typing" />
-
-<br/><br/>
-
-[**Portfolio**](https://hardikshrivastava.com.np/) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/hardik-shrivastava-60659828a/) &nbsp;·&nbsp; [**Email**](mailto:hardik.shrivastava134@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Social+Connect;Next.js+%2B+TypeScript+%2B+.NET+%2B+SQL+Server;Ex-Software+Tester+%40+Global+Tech+Nepal;Learning.+Building.+Breaking.+Fixing." />
 
 <br/>
+
+<a href="https://hardikshrivastava.com.np/"><img src="https://img.shields.io/badge/PORTFOLIO-hardikshrivastava.com.np-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/in/hardik-shrivastava-60659828a/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:hardik.shrivastava134@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
 
 </div>
 
 <br/>
 
-## Note
+## ⚡ About
 
-I build software, then I take it apart looking for what breaks. That's not two separate interests — it's one habit, applied at both ends of the same process.
+I build software, then switch hats and try to break it. That's not two interests — it's one habit, applied at both ends of the same process.
 
-<br/>
-
-## The Work
-
-**01 — Building**
-Next.js and TypeScript on the frontend, .NET on the backend, SQL Server for data. Right now that's **Social Connect** — a platform for linking your social accounts into one place. Facebook Graph API and YouTube API integrations, OAuth 2.0 for authorization, tested locally through Ngrok. It's mid-build, not finished, and I'd rather say that plainly than oversell it.
-
-**02 — Testing**
-Before I called myself a developer, I was paid to break things properly. Software Tester & Digital Marketing Associate, R&D Team, Global Tech Nepal Pvt. Ltd., Kathmandu — June to August 2026. Functional testing, defect identification, UI and usability review, application verification. Also handled SEO and social promotion for the same team, which is a strange pairing but taught me to think about a product from outside the code too.
+Right now I'm building **Social Connect**, a platform for linking your social accounts into one place — Next.js and TypeScript on the front end, .NET on the back end, SQL Server underneath. Before that, I spent a summer as a paid tester at **Global Tech Nepal**, finding what breaks before users do.
 
 <br/>
 
-## Stack
+## 🧩 What I'm building — Social Connect
 
-| | |
-|---|---|
-| **Frontend** | Next.js, TypeScript, JavaScript, HTML, CSS |
-| **Backend** | .NET, REST APIs, OAuth 2.0 |
-| **Data** | SQL Server, SSMS, MySQL |
-| **Testing** | Functional, UI, Usability, Defect Tracking |
-| **Tools** | Git, GitHub, Ngrok, VS Code, Android Studio |
+A social media integration platform — one app to connect and manage your accounts across platforms.
 
-<br/>
+- **Next.js + TypeScript** — the web application itself
+- **.NET** — backend logic and API layer
+- **SQL Server (SSMS)** — data storage and management
+- **OAuth 2.0** — secure account authorization
+- **Facebook Graph API** & **YouTube API** — platform integrations
+- **REST APIs** — communication between the pieces
+- **Ngrok** — tunneling for local callback testing
 
-## Background
-
-BCA, Presidency University, Bangalore — graduating 2026.
-
-Certifications: Data Analytics Job Simulation (Deloitte, via Forage), Innovating with Google Cloud AI, Introduction to Generative AI.
+Still mid-build. Some integrations work, some are in progress — I'd rather say that than oversell it.
 
 <br/>
 
-## Right Now
+## 🧪 Before development — testing
+
+**Software Tester & Digital Marketing Associate**, R&D Team
+Global Tech Nepal Pvt. Ltd., Kathmandu — Jun to Aug 2026
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hardikshriv27&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&hide_rank=true" height="150"/>
+![Functional Testing](https://img.shields.io/badge/-Functional_Testing-1F6E56?style=flat-square)
+![QA](https://img.shields.io/badge/-Quality_Assurance-1F6E56?style=flat-square)
+![Defect Tracking](https://img.shields.io/badge/-Defect_Identification-1F6E56?style=flat-square)
+![UI Testing](https://img.shields.io/badge/-UI_%26_Usability-1F6E56?style=flat-square)
+![SEO](https://img.shields.io/badge/-SEO-D97757?style=flat-square)
+![Social](https://img.shields.io/badge/-Social_Promotion-D97757?style=flat-square)
 
-<img src="https://streak-stats.demolab.com?user=Hardikshriv27&hide_border=true&background=00000000&stroke=00000000&ring=8B949E&fire=8B949E&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="150"/>
+</div>
 
-<sub>commits and streaks, pulled live — no manual updates</sub>
+<br/>
+
+## 🛠️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,js,dotnet,mysql,html,css,git,github,vscode,androidstudio" />
+
+<br/><br/>
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth%202.0-4285F4?style=flat-square&logo=auth0&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=flat-square&logo=ngrok&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🎓 Background
+
+**BCA**, Presidency University, Bangalore — graduating 2026
+
+🏅 Data Analytics Job Simulation (Deloitte, via Forage) · Innovating with Google Cloud AI · Introduction to Generative AI
+
+<br/>
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hardikshriv27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikshriv27&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikshriv27&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hardikshriv27&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
@@ -72,6 +106,18 @@ Certifications: Data Analytics Job Simulation (Deloitte, via Forage), Innovating
 
 <div align="center">
 
-<sub>reach me at <a href="https://hardikshrivastava.com.np/">hardikshrivastava.com.np</a> or <a href="mailto:hardik.shrivastava134@gmail.com">hardik.shrivastava134@gmail.com</a></sub>
+### 📬 Let's talk
+
+<a href="https://hardikshrivastava.com.np/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hardik-shrivastava-60659828a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:hardik.shrivastava134@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hardikshriv27&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2C5364,100:0F2027&section=footer"/>
 
 </div>
