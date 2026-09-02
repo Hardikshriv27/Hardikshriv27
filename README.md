@@ -82,3 +82,25 @@ Global Tech Nepal Pvt. Ltd., Kathmandu — Jun to Aug 2026
 <br/>
 
 ## 🧠 How I think about a build
+
+Every project I touch goes through the same loop: build it, then try to break it, fix what broke, ship it, repeat. Testing was never a phase that happens after I'm done — it's a habit I run on my own code now, the same way I used to run it on someone else's at Global Tech Nepal.
+
+<br/>
+
+<div align="center">
+
+### 📬 Let's talk
+
+<a href="https://hardikshrivastava.com.np/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hardik-shrivastava-60659828a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:hardik.shrivastava134@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hardikshriv27&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2C5364,100:0F2027&section=footer"/>
+
+</div>
