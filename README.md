@@ -81,29 +81,4 @@ Global Tech Nepal Pvt. Ltd., Kathmandu — Jun to Aug 2026
 
 <br/>
 
-## 📊 Stats
-
-<div align="center">
-
-🟢 **37** contributions · 🔥 **3** day streak · 📁 **7** repositories
-
-</div>
-<br/>
-
-<div align="center">
-
-### 📬 Let's talk
-
-<a href="https://hardikshrivastava.com.np/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hardik-shrivastava-60659828a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:hardik.shrivastava134@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Hardikshriv27&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2C5364,100:0F2027&section=footer"/>
-
-</div>
+## 🧠 How I think about a build
