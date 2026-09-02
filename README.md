@@ -86,10 +86,8 @@ Global Tech Nepal Pvt. Ltd., Kathmandu — Jun to Aug 2026
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hardikshriv27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Hardikshriv27&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
 <br/>
 
 <div align="center">
